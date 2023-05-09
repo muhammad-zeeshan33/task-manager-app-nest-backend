@@ -1,0 +1,10 @@
+Endpoint: /users    
+Usage: gets (GET), deletes (DELETE), edits (PATCH), and creates (POST) a new user.
+Example: {
+        "userid": 23,
+        "name":"name",
+        "email":"email",
+        "password": "pass",
+        "role": true
+
+    }
