@@ -12,7 +12,7 @@ import { UsersModule } from './users/users.module';
     port: 3306,
     username: 'root',
     password: 'password',
-    database: 'testproject',
+    database: 'nest',
     entities : [users],
     synchronize:true,
      
